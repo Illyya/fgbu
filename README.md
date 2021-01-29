@@ -1,4 +1,7 @@
 # fgbu
+```
+https://illyya.github.io/fgbu/
+```
 
 ## Project setup
 ```
